@@ -1,13 +1,49 @@
-body {
+
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Edu+AU+VIC+WA+NT+Dots:wght@400..700&family=Lobster&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Bruno Ace", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.container{
+  width: 1300px;
+  max-width: 100%;
+  overflow: hidden;
+  margin: auto;
+  background-color: transparent;
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+
+  /* Tablet screens */
+  .container {
+    width: 100%;
+    padding: 0 16px;
+  }
+}
+
+@media (max-width: 768px) {
+
+  /* Mobile screens */
+  .container {
+    width: 100%;
+    padding: 0 8px;
+  }
+}
+
+
+
+h2{
+  font-size: 40px;
+}
+
+.mui_icon{
+  color: rgb(177, 0, 236);
 }
