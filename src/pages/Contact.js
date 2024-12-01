@@ -57,26 +57,26 @@ export const Contact = () => {
                         <div className="contact_actions">
                             <Button
                                 variant="contained"
-                                onClick={() =>
-                                    window.open(
-                                        'https://wa.me/916379424101?text=Hello,%20I%20would%20like%20to%20contact%20you!',
-                                        '_blank',
-                                        'noopener,noreferrer'
-                                    )
-                                }
+                                // onClick={() =>
+                                //     window.open(
+                                //         'https://wa.me/916379424101?text=Hello,%20I%20would%20like%20to%20contact%20you!',
+                                //         '_blank',
+                                //         'noopener,noreferrer'
+                                //     )
+                                // }
                             >
                                 <WhatsAppIcon className="mui_icon" />
                                 Message
                             </Button>
                             <Button
                                 variant="contained"
-                                onClick={() =>
-                                    window.open(
-                                        'https://mail.google.com/mail/?view=cm&fs=1&to=arthianbalagan180@gmail.com',
-                                        '_blank',
-                                        'noopener,noreferrer'
-                                    )
-                                }
+                                // onClick={() =>
+                                //     window.open(
+                                //         'https://mail.google.com/mail/?view=cm&fs=1&to=arthianbalagan180@gmail.com',
+                                //         '_blank',
+                                //         'noopener,noreferrer'
+                                //     )
+                                // }
                             >
                                 <MailOutlineOutlinedIcon className="mui_icon" />
                                 Mail
