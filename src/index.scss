@@ -573,11 +573,14 @@
                 }
 
                 &:nth-child(4) {
-                    animation-delay: 3s;
+                    animation-delay: 1s;
                 }
 
                 &:nth-child(5) {
-                    animation-delay: 4s;
+                    animation-delay: 2s;
+                }
+                &:nth-child(6) {
+                    animation-delay: 3s;
                 }
 
                 img {
@@ -697,6 +700,12 @@
                         display: flex;
                         column-gap: 10px;
                     }
+                    :hover
+                        {
+                            background-color: plum !important;
+                            border: 2px dashed purple;
+                            color: purple !important;
+                        }
                 }
             }
 
@@ -729,6 +738,12 @@
                             color: white !important;
                             font-weight: 700;
                         }
+                    }
+
+                    :hover{
+                        background-color: plum;
+                        border: 2px dashed purple;
+                        color: purple !important;
                     }
                 }
             }

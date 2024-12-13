@@ -1,0 +1,39 @@
+[
+    {
+      "title": "RSL LIFESTYLE",
+      "description": "Built a MERN stack Travel and Tourism web app enabling bookings for hotels, cars, flights, and attractions. Enhanced frontend performance by 30% and integrated third-party APIs for seamless reservations. Developed an intuitive admin panel and collaborated cross-functionally to deliver timely solutions.",
+      "image": "/assets/projects/1 (2).png",
+      "link": "https://royalsmartlifestyle.com/"
+    },
+    {
+      "title": "BEYOND CASA",
+      "description": "Developed a MERN-based property listing platform with robust search filters and responsive design. Optimized backend management with an intuitive admin panel.",
+      "image": "/assets/projects/1 (3).png",
+      "link": "https://beyondcasa.ae/"
+    },
+    {
+      "title": "GADGETS BAZAAR",
+      "description": "I developed a responsive Gadget Bazaar web application showcasing a wide range of gadgets. Built using HTML, CSS, JavaScript, SCSS, MUI, and React, the app delivers a seamless user experience.",
+      "image": "/assets/projects/1 (4).png",
+      "link": "https://gadgetbazar.netlify.app/"
+    },
+    {
+      "title": "MY PORTFOLIO",
+      "description": "I have developed my portfolio site using React, HTML, CSS, and JavaScript. It showcases my skills, projects, and professional journey in a visually appealing and interactive manner.",
+      "image": "/assets/projects/1 (5).png",
+      "link": "https://arthimyportfolio.netlify.app/"
+    },
+    {
+      "title": "TRAVEL WEBSITE",
+      "description": "I developed Trick Travel, a responsive travel booking website using HTML, CSS, JavaScript, SCSS, MUI, and React. The site enables users to explore and book travel options seamlessly.",
+      "image": "/assets/projects/1 (6).png",
+      "link": "https://tricktravelwebsite.netlify.app/"
+    },
+    {
+      "title": "Crime Chronicles",
+      "description": "Developed a responsive blog-style website titled Crime Chronicles, which provides insightful articles and stories related to crime. The website features a modern design with user-friendly navigation and content presentation.",
+      "image": "/assets/projects/1 (7).png",
+      "link": "https://crimerecords.netlify.app/"
+    }
+  ]
+  

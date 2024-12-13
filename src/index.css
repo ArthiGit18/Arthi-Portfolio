@@ -104,3 +104,19 @@ h2{
     white-space: normal; /* Allow text to wrap normally */
   }
 }
+
+.button_class{
+  background-color: rgb(216, 174, 255) !important;
+  padding: 3px;
+  border-radius: 30px !important;
+  margin: 20px 0 !important;
+  color: purple !important;
+  font-weight: 700 !important;
+  border: 2px dashed purple !important;
+}
+
+.button_class:hover {
+  background-color: purple !important;
+  color: rgb(216, 174, 255) !important;
+  border: 2px dashed rgb(216, 174, 255) !important;
+}
